@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local scratch / generated evaluation output
+.tmp/
+tmp/
+benchmarks/output/
